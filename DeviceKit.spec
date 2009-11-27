@@ -9,6 +9,7 @@ Source0:	http://hal.freedesktop.org/releases/%{name}-%{version}.tar.gz
 BuildRequires:	autoconf >= 2.60
 BuildRequires:	automake
 BuildRequires:	dbus-glib-devel >= 0.76
+BuildRequires:	docbook-dtd412-xml
 BuildRequires:	glib2-devel >= 1:2.12.0
 BuildRequires:	gtk-doc >= 1.3
 BuildRequires:	libtool
