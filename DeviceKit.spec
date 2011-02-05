@@ -36,7 +36,7 @@ Group:		Libraries
 %description libs
 DeviceKit library.
 
-%description libs
+%description libs -l pl.UTF-8
 Biblioteka DeviceKit.
 
 %package devel
