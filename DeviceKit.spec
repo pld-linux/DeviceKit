@@ -1,7 +1,7 @@
 Summary:	Device Enumeration Framework
 Name:		DeviceKit
 Version:	003
-Release:	1
+Release:	2
 License:	GPL v2+ and LGPL v2+
 Group:		Libraries
 Source0:	http://hal.freedesktop.org/releases/%{name}-%{version}.tar.gz
